@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 :root {
-  --bg-color: rgb(240, 230, 140);
+  --bg-color: #333;
 }
 
 body {
