@@ -4,7 +4,6 @@
 :root {
   --bg-color: #333;
   --text-color: whitesmoke;
-
 }
 
 body {
@@ -58,7 +57,7 @@ button {
   color: rgba(0, 0, 0, 0.85);
   cursor: pointer;
   display: inline-flex;
-  font-family: monospace
+  font-family: monospace;
   font-size: 30px;
   font-weight: 600;
   justify-content: center;
