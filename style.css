@@ -16,7 +16,6 @@ body {
 h2,
 button,
 p:nth-of-type(1) {
-  color: var(--text-color);
   margin-left: 3rem;
   font-family: monospace;
 }
